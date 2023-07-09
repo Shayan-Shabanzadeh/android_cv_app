@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CvAndroidApp</string>
+    <string name="name">Shayan Shabanzadeh</string>
+    <string name="about_me">About Me</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="call_me">Call me!</string>
+    <string name="email_me">Email me!</string>
+    <string name="profile_picture">profile_picture</string>
+</resources>
